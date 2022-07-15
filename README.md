@@ -18,6 +18,9 @@ Hi, My name is Peem
 - I'm 15y.
 - I'm learning to code golang.
 
+### 📌 Contact :
+- Mail : zephyrcx@proton.me
+
 ### :hammer_and_wrench: Languages and Tools :
 <p align="start">
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="ze" width="40" height="40"/>
