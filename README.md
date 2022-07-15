@@ -20,7 +20,8 @@
 
 ### 📌 Contact :
 - Mail : zephyrcx@proton.me
-- Discord : <a herf="https://dsc.bio/zephyrc">click me</a>
+- Discord :
+<a herf="https://dsc.bio/zephyrc">click me</a>
 
 ### :hammer_and_wrench: Languages and Tools :
 <p align="start">
