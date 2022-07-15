@@ -20,7 +20,7 @@ Hi, My name is Peem
 
 ### 📌 Contact :
 - Mail : zephyrcx@proton.me
-- Discord : Zephyrc#0001 (785531601845092392)
+- Discord : Zephyrc#0001
 
 ### :hammer_and_wrench: Languages and Tools :
 <p align="start">
