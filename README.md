@@ -1,5 +1,5 @@
 <div id="badges" align="center">
-###Hi there 👋<br>
+Hi there 👋<br>
   <a href="https://www.youtube.com/channel/UC4OPpXyXQt_I6HLbncV6NiA">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
