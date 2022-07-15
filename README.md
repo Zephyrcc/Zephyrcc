@@ -14,9 +14,9 @@
 ---
 
 ### :woman_technologist: About Me :
-Hi, My name is Peem
+- My name is Peem.
 - I'm 15y.
-- I'm learning to code golang.
+- lol.html
 
 ### 📌 Contact :
 - Mail : zephyrcx@proton.me
