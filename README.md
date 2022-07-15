@@ -20,10 +20,10 @@ Hi, My name is Peem
 
 ### :hammer_and_wrench: Languages and Tools :
 <p align="start">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="ze" width="30" height="30"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="ze" width="30" height="30"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="ze" width="30" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="ze" width="30" height="30"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="ze" width="30" height="30"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="ze" width="30" height="30"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="ze" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="ze" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="ze" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="ze" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="ze" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="ze" width="40" height="40"/>
 </p>
