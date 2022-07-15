@@ -1,5 +1,5 @@
 <div id="badges" align="center">
-  <img src="https://discord.c99.nl/widget/theme-4/785531601845092392.png"><br>
+  <img src="https://lanyard.cnrad.dev/api/785531601845092392"><br>
   <a href="https://www.youtube.com/channel/UC4OPpXyXQt_I6HLbncV6NiA">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
