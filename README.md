@@ -27,3 +27,7 @@ Hi, My name is Peem
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="ze" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="ze" width="40" height="40"/>
 </p>
+
+---
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Zephyrcc&theme=dark)](https://git.io/streak-stats)
