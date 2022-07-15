@@ -13,4 +13,5 @@
 
 ### :woman_technologist: About Me :
 Hi, My name is Peem
-- :I'm a student
+- I'm a student
+- I'm learning to code golang
