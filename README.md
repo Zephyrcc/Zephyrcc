@@ -1,4 +1,2 @@
 ### Hi there 👋
-contact : 
-zephyrcx@proton.me<br>
-t.me/Zephyrrrr404
+contact :<br>zephyrcx@proton.me<br>t.me/Zephyrrrr404
