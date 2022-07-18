@@ -16,7 +16,6 @@
 ### :woman_technologist: About Me :
 - My name is Peem.
 - I'm 15y.
-- lol.html : https://ayooo.netlify.app/
 
 ### 📌 Contact :
 - Mail : zephyrcx@proton.me
